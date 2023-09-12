@@ -1,1 +1,1 @@
-Copyright @ 2023 SKYTEC INDUSTRIES All rights reserved
+This project aims at developing a web-based monitoring system for the wirelessly powered electic model. This monitoring system shall be used to monitor the particular transmitter section active and the amount of power transmitted and received.
